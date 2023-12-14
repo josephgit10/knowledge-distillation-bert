@@ -1,2 +1,1 @@
-There are two ipynb files in the repository. The file titled "Knowledge Distillation" contains code to perform knowledge distillation from a BERT model to a smaller, more efficient model like tinyBERT or distilBERT and fine-tune it on a dataset such as hate_speech 18.
-The second file "Visualizations" contains code to visualize the weights of the model and token distributions. It also contains code to visualize the layers of the model using the ONXX library which can be accessed through neptune.ai
+The file titled "Knowledge Distillation" contains code to perform knowledge distillation from a BERT model to a smaller, more efficient model like tinyBERT or distilBERT and fine-tune it on a dataset such as hate_speech 18.
